@@ -1,0 +1,13 @@
+C:\Users\durbi\dotnettest\bin\Release\netcoreapp3.1\dotnettest.exe
+C:\Users\durbi\dotnettest\bin\Release\netcoreapp3.1\dotnettest.deps.json
+C:\Users\durbi\dotnettest\bin\Release\netcoreapp3.1\dotnettest.runtimeconfig.json
+C:\Users\durbi\dotnettest\bin\Release\netcoreapp3.1\dotnettest.runtimeconfig.dev.json
+C:\Users\durbi\dotnettest\bin\Release\netcoreapp3.1\dotnettest.dll
+C:\Users\durbi\dotnettest\bin\Release\netcoreapp3.1\dotnettest.pdb
+C:\Users\durbi\dotnettest\obj\Release\netcoreapp3.1\dotnettest.csprojAssemblyReference.cache
+C:\Users\durbi\dotnettest\obj\Release\netcoreapp3.1\dotnettest.csproj.CoreCompileInputs.cache
+C:\Users\durbi\dotnettest\obj\Release\netcoreapp3.1\dotnettest.AssemblyInfoInputs.cache
+C:\Users\durbi\dotnettest\obj\Release\netcoreapp3.1\dotnettest.AssemblyInfo.cs
+C:\Users\durbi\dotnettest\obj\Release\netcoreapp3.1\dotnettest.dll
+C:\Users\durbi\dotnettest\obj\Release\netcoreapp3.1\dotnettest.pdb
+C:\Users\durbi\dotnettest\obj\Release\netcoreapp3.1\dotnettest.genruntimeconfig.cache
