@@ -1,4 +1,5 @@
-﻿using dotnettest.Dto;
+﻿using dotnettest.Abstractions;
+using dotnettest.Dto;
 using dotnettest.Sanitizer;
 using System;
 
@@ -16,7 +17,7 @@ namespace dotnettest
             orderDto.Address = "jorge y muchos espacios            ";
 
             // Sanitize using a specialized object
-            DefaultSanitizer sanitizer = new DefaultSanitizer();
+            ISanitizer sanitizer = new DefaultSanitizer();
             orderDto = sanitizer.Sanitize(orderDto);
             Console.ReadLine();
         }

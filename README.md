@@ -1,2 +1,2 @@
 # Sanitizer
-Sanitizer para Payvision
+Sanitizer for Payvision applying solid principles
