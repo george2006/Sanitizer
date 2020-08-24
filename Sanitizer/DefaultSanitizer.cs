@@ -11,7 +11,7 @@ namespace dotnettest.Sanitizer
     {
         public TObject Sanitize<TObject>(TObject @object) where TObject : class
         {
-            PropertyInfo[] props = typeof(OrderDto).GetProperties();
+            PropertyInfo[] props = typeof(TObject).GetProperties();
             foreach (PropertyInfo prop in props)
             {
                 object[] attrs = prop.GetCustomAttributes(true);
