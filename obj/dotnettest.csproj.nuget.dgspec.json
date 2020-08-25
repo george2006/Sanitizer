@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\durbi\\dotnettest\\dotnettest.csproj": {}
+    "c:\\Proyectos\\Sanitizer\\dotnettest.csproj": {}
   },
   "projects": {
-    "C:\\Users\\durbi\\dotnettest\\dotnettest.csproj": {
+    "c:\\Proyectos\\Sanitizer\\dotnettest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\durbi\\dotnettest\\dotnettest.csproj",
+        "projectUniqueName": "c:\\Proyectos\\Sanitizer\\dotnettest.csproj",
         "projectName": "dotnettest",
-        "projectPath": "C:\\Users\\durbi\\dotnettest\\dotnettest.csproj",
+        "projectPath": "c:\\Proyectos\\Sanitizer\\dotnettest.csproj",
         "packagesPath": "C:\\Users\\durbi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\durbi\\dotnettest\\obj\\",
+        "outputPath": "c:\\Proyectos\\Sanitizer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -56,7 +56,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
         }
       }
     }

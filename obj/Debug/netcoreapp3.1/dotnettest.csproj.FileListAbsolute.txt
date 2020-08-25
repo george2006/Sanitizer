@@ -10,3 +10,14 @@ C:\Users\durbi\dotnettest\obj\Debug\netcoreapp3.1\dotnettest.AssemblyInfo.cs
 C:\Users\durbi\dotnettest\obj\Debug\netcoreapp3.1\dotnettest.dll
 C:\Users\durbi\dotnettest\obj\Debug\netcoreapp3.1\dotnettest.pdb
 C:\Users\durbi\dotnettest\obj\Debug\netcoreapp3.1\dotnettest.genruntimeconfig.cache
+c:\Proyectos\Sanitizer\bin\Debug\netcoreapp3.1\dotnettest.exe
+c:\Proyectos\Sanitizer\bin\Debug\netcoreapp3.1\dotnettest.deps.json
+c:\Proyectos\Sanitizer\bin\Debug\netcoreapp3.1\dotnettest.runtimeconfig.json
+c:\Proyectos\Sanitizer\bin\Debug\netcoreapp3.1\dotnettest.runtimeconfig.dev.json
+c:\Proyectos\Sanitizer\bin\Debug\netcoreapp3.1\dotnettest.dll
+c:\Proyectos\Sanitizer\bin\Debug\netcoreapp3.1\dotnettest.pdb
+c:\Proyectos\Sanitizer\obj\Debug\netcoreapp3.1\dotnettest.csprojAssemblyReference.cache
+c:\Proyectos\Sanitizer\obj\Debug\netcoreapp3.1\dotnettest.AssemblyInfoInputs.cache
+c:\Proyectos\Sanitizer\obj\Debug\netcoreapp3.1\dotnettest.AssemblyInfo.cs
+c:\Proyectos\Sanitizer\obj\Debug\netcoreapp3.1\dotnettest.dll
+c:\Proyectos\Sanitizer\obj\Debug\netcoreapp3.1\dotnettest.pdb
