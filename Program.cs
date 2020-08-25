@@ -14,7 +14,7 @@ namespace dotnettest
             // Build order.
             OrderDto orderDto = new OrderDto();
             orderDto.Email = new Email("Perro");
-            orderDto.Address = "jorge y muchos espacios            ";
+            orderDto.Address = "texto y muchos espacios al final            ";
 
             // Sanitize using a specialized object
             ISanitizer sanitizer = new DefaultSanitizer();
